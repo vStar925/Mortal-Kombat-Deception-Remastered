@@ -13,7 +13,7 @@ This includes
 
 Follow me on Twitter for more frequent updates on this project https://twitter.com/vStar925
 
-[**SCREENSHOTS**](https://lensdump.com/a/tX1uA)
+[**SCREENSHOTS**](https://lensdump.com/a/tX1uA/sub)
 
 [**DOWNLOAD**](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection/releases)
 
