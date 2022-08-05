@@ -1,5 +1,5 @@
 # Mortal Kombat Deception Remastered
-![MKDHD Banner.png](https://github.com/vStar925/MKDeception-Texture-Pack-Kollection/blob/main/MKDHD%20Banner.png)
+![MKDHD Banner.png](https://github.com/vStar925/Mortal-Kombat-Deception-Remastered/blob/main/MKDHDBanner.png?raw=true)
 
 A project attempting to redraw/upscale every texture in Mortal Kombat: Deception, for the [PCSX2](https://pcsx2.net/) and [Dolphin](https://dolphin-emu.org/) emulators.
 
